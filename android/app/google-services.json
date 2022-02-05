@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "4199852822",
+    "project_id": "socialapp-eecab",
+    "storage_bucket": "socialapp-eecab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4199852822:android:c668dc34a6172b5114be37",
+        "android_client_info": {
+          "package_name": "com.example.social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4199852822-qrin4o5ic0sa8j1k0pgdg7atbqjp6mp9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.social_app",
+            "certificate_hash": "450ab474cc8ab01dc8bd79bdd05a6318649b4119"
+          }
+        },
+        {
+          "client_id": "4199852822-g106t4rqce191i48nl2b0fg3hf52vl6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUrfd4PfF_9RigASDiQkIhLBO4ipTcvsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4199852822-g106t4rqce191i48nl2b0fg3hf52vl6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
