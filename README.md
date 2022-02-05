@@ -1,6 +1,6 @@
 # shop_app
 
-A E-commerce app.
+ E-commerce app.
 
 ## Getting Started
 
